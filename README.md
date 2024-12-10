@@ -3,7 +3,7 @@
 ## Sobre mim
 Sou um apaixonado por tecnologia e estou em busca da minha primeira experiência na área de desenvolvimento web. Possuo muita sede de aprender e aprimorar meus conhecimentos de programação. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-silva-05794833b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/pedro-silva-05794833b)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique-23&show_icons=true&theme=dracula)
 
