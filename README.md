@@ -26,7 +26,3 @@ Sou um apaixonado por tecnologia e estou em busca da minha primeira experiência
 - [Nu Kenzie](https://m3-sp2-nu-kenzie-pedrohenrique-23.vercel.app/) <br/>
 - [Burguer Kenzie](https://m3-sp3-hamburgueria-kenzie-pedrohenrique-23.vercel.app/) <br/>
 - [Open Music](https://m2-sp455-openmusic-pedrohenrique-23.vercel.app/) <br/>
-
-###
-
-<img src="https://raw.githubusercontent.com/pedrohenrique-23/maurodesouza/output/snake.svg" alt="Snake animation" />
