@@ -29,4 +29,4 @@ Sou um apaixonado por tecnologia e estou em busca da minha primeira experiência
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pedrohenrique-23/maurodesouza/output/snake.svg" alt="Snake animation" />
