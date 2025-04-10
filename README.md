@@ -1,28 +1,52 @@
-### Olá! Eu sou o Pedro Silva 🤙
+<h1 align="center">Olá! Sou o Pedro Henrique 👨‍💻</h1>
 
-## Sobre mim
-Sou um apaixonado por tecnologia e estou em busca da minha primeira experiência na área de desenvolvimento web. Possuo muita sede de aprender e aprimorar meus conhecimentos de programação. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Apaixonado+por+React+e+UI;Buscando+o+1%C2%BA+emprego+em+tech" alt="Typing SVG" />
+</p>
 
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-opal-psi-45.vercel.app/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-05794833b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohenriquee_7/)
+<p align="center">
+  <a href="https://portfolio-opal-psi-45.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pedro-silva-05794833b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pedrosilva10057@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique-23&show_icons=true&bg_color=00000000)
+---
 
-## Tecnologias que eu uso no meu dia
+### 🚀 Sobre mim
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</div><br/>
+Sou um desenvolvedor front-end focado em React.js e apaixonado por transformar ideias em interfaces funcionais, responsivas e agradáveis.  
+Busco minha primeira oportunidade profissional na área de tecnologia para aplicar meus conhecimentos e crescer junto com o time.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique-23)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Últimos projetos
+### 🛠️ Tecnologias que trabalho
 
-- [Cardápio Online](https://cardapio-online-pi.vercel.app/) <br/>
-- [Nu Kenzie](https://m3-sp2-nu-kenzie-pedrohenrique-23.vercel.app/) <br/>
-- [Burguer Kenzie](https://m3-sp3-hamburgueria-kenzie-pedrohenrique-23.vercel.app/) <br/>
-- [Open Music](https://m2-sp455-openmusic-pedrohenrique-23.vercel.app/) <br/>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📂 Meus projetos principais
+
+🔹 [**Dev Burguer**](https://cardapio-online-pi.vercel.app/)  
+> 🧾 Aplicação de hamburgueria com carrinho interativo e integração com WhatsApp.
+
+🔹 [**NuKenzie**](https://m3-sp2-nu-kenzie-pedrohenrique-23-xf1c-i7kr79xnr.vercel.app/)  
+> 💸 Gerenciador financeiro com entradas e saídas, layout baseado em Figma.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohenrique-23&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique-23&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil!</p>
