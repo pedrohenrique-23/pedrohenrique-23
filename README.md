@@ -14,8 +14,7 @@
 
 ### 🚀 Sobre mim
 
-Sou um desenvolvedor front-end focado em React.js e apaixonado por transformar ideias em interfaces funcionais, responsivas e agradáveis.  
-Busco minha primeira oportunidade profissional na área de tecnologia para aplicar meus conhecimentos e crescer junto com o time.
+Sou um desenvolvedor front-end focado em React.js e apaixonado por transformar ideias em interfaces funcionais, responsivas e agradáveis. Sou formado em Análise e Desenvolvimento de Sistemas e busco minha primeira oportunidade profissional na área de tecnologia para aplicar meus conhecimentos e crescer junto com o time.
 
 ---
 
