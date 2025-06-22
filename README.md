@@ -47,5 +47,9 @@ Sou um desenvolvedor front-end focado em React.js e apaixonado por transformar i
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pedrohenrique-23/pedrohenrique-23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+---
 
 <p align="center">✨ Obrigado por visitar meu perfil!</p>
